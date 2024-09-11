@@ -1,0 +1,7 @@
+C:\Isaacs C# Scripts\MethodPractice\MethodPractice\bin\Debug\MethodPractice.exe.config
+C:\Isaacs C# Scripts\MethodPractice\MethodPractice\bin\Debug\MethodPractice.exe
+C:\Isaacs C# Scripts\MethodPractice\MethodPractice\bin\Debug\MethodPractice.pdb
+C:\Isaacs C# Scripts\MethodPractice\MethodPractice\obj\Debug\MethodPractice.csproj.AssemblyReference.cache
+C:\Isaacs C# Scripts\MethodPractice\MethodPractice\obj\Debug\MethodPractice.csproj.CoreCompileInputs.cache
+C:\Isaacs C# Scripts\MethodPractice\MethodPractice\obj\Debug\MethodPractice.exe
+C:\Isaacs C# Scripts\MethodPractice\MethodPractice\obj\Debug\MethodPractice.pdb
